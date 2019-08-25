@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ReferencePath>C:\Ary\BegCSharp\Chapter14\LabelTextbox\bin\Debug\;D:\Programming\Wrox press\Beginning C#\14) Advanced controls\Sent to Wrox\Code\LabelTextbox\bin\Debug\;C:\Ary\BegCSharp\Chapter14\LabelTextbox\obj\Debug\;C:\4982\Books\4982 Beg C#\Code for DownLoad\BegCSharp\Chapter14\LabelTextbox\bin\Debug\</ReferencePath>
+    <CopyProjectDestinationFolder />
+    <CopyProjectUncPath />
+    <CopyProjectOption>0</CopyProjectOption>
+    <ProjectView>ProjectFiles</ProjectView>
+    <ProjectTrust>0</ProjectTrust>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <EnableASPDebugging>false</EnableASPDebugging>
+    <EnableASPXDebugging>false</EnableASPXDebugging>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <EnableSQLServerDebugging>false</EnableSQLServerDebugging>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <RemoteDebugMachine />
+    <StartAction>Project</StartAction>
+    <StartArguments />
+    <StartPage />
+    <StartProgram />
+    <StartURL />
+    <StartWorkingDirectory />
+    <StartWithIE>true</StartWithIE>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <EnableASPDebugging>false</EnableASPDebugging>
+    <EnableASPXDebugging>false</EnableASPXDebugging>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <EnableSQLServerDebugging>false</EnableSQLServerDebugging>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <RemoteDebugMachine />
+    <StartAction>Project</StartAction>
+    <StartArguments />
+    <StartPage />
+    <StartProgram />
+    <StartURL />
+    <StartWorkingDirectory />
+    <StartWithIE>true</StartWithIE>
+  </PropertyGroup>
+</Project>
